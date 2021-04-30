@@ -1,9 +1,9 @@
-# Sorting
+# Sorting Arrays
 
-## Objectives
+## Learning Goals
 
-1. Introduce the usefulness of sorting data.
-2. Introduce how the basic Ruby `sort` method works under the hood.
+- Introduce the usefulness of sorting data.
+- Introduce how the basic Ruby `sort` method works under the hood.
 
 Sorting collections of data is a very common task in programming. As a developer, you can imagine being confronted with the need to sort items by price, or emails by their position in the alphabet, for example. There are a number of ways to execute sorting in Ruby. Here we'll discuss one basic example and learn how to sort a list of words.
 
@@ -147,7 +147,3 @@ Simply calling `.sort` has the desired effect. It implicity executes the code we
 * [Ruby Docs - Array - sort](http://ruby-doc.org/core-2.2.0/Array.html#method-i-sort)
 * [Watch sorting happen](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [Compare different sorting algorithms](http://www.sorting-algorithms.com/)
-
-
-
-
